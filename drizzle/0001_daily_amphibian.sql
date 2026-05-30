@@ -1,0 +1,1 @@
+ALTER TABLE MessageArray ADD `createdAt` text DEFAULT CURRENT_TIMESTAMP;

@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1712317511545,
+      "tag": "0000_short_silver_surfer",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1712472635327,
+      "tag": "0001_daily_amphibian",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1712477206850,
+      "tag": "0002_neat_misty_knight",
+      "breakpoints": true
+    }
+  ]
+}
